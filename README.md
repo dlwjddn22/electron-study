@@ -14,6 +14,8 @@ yarn -v
 # powershell에서 오류시 관리자권한으로 실행후 아래 명령어 실행
 Set-ExecutionPolicy Unrestricted 
 ExecutionPolicy
+
+#yarn이 정상적으로 동작하지 않고 설치도 안될때 수동으로 yarn install 파일 받아서 설치 후 재실행
 ```
 ### electron 설치
 ```sh
